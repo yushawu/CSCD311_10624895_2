@@ -1,0 +1,51 @@
+.form{
+	text-align: center;
+	margin:100px 600px;
+}
+body{
+	background-image: url(img/px.jpeg) ;
+	background-repeat: no-repeat;
+	background-size: 1800px 900px;
+
+
+}
+#registration{
+	width: 300px;
+	background-color:R65;
+	opacity: o.8;
+	padding:50px;
+}
+#button{
+	padding: 10px;
+	border-radius: 10px;
+	width: 300px;
+	background-color: #77D25A;
+	font-size: 20px;
+	font-weight: 20px;
+}
+#phone{
+	padding: 10px;
+	border-radius: 10px;
+	width: 80px;
+	background-color: #77D25A;
+	font-size: 20px;
+}
+#ph{
+	padding: 10px;
+	border-radius: 10px;
+	width: 190px;
+	background-color: #77D25A;
+	font-size: 20px;	
+}
+#shafiu{
+	padding: 10px;
+	border-radius: 10px;
+	width: 300px;
+	background-color: #77D25A;
+	font-size: 20px;
+	color: green;
+}
+#h1{
+	text-align: right;
+	color: red;
+}
